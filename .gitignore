@@ -1,2 +1,4 @@
-#Ignore the dataset folder
+#Ignores the folders
+CNN.model/
 dataset/
+
