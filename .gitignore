@@ -1,3 +1,5 @@
 #Ignores the folders
 dataset/
 
+#Ignores the files
+dataset_remover.ipynb
